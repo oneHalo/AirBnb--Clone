@@ -1,5 +1,5 @@
 # AirBnb-Clone
-Goal: Create a functioning AirBnb Clone. 
+Goal: Create a functioning AirBnb Clone
 
 ## INTRO:
 This project is a simplified Airbnb clone that allows users to browse and book accommodations. 
